@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/saali/Desktop/UE5/Unreal-Gameplay/Gameplay/Content/LearnToCode/Blueprints/BP_Generic_Actor.uasset",
+				"C:/Users/saali/Desktop/UE5/Unreal-Gameplay/Gameplay/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/05/QRJEN08NFGRJ2LBOBFWR2W.uasset",
+				"C:/Users/saali/Desktop/UE5/Unreal-Gameplay/Gameplay/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/YC/KVNTM773PHYE0SULNNM6IR.uasset",
+				"C:/Users/saali/Desktop/UE5/Unreal-Gameplay/Gameplay/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/69/9YI1IZ9F5ENZ2GERT5OD6L.uasset",
 				"C:/Users/saali/Desktop/UE5/Gameplay/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
